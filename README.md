@@ -1,4 +1,4 @@
-# UML-class-diagram-Banking-System
+# Specialization-using-Private-Inheritance
 In specialization, the derived class is behaviourly incompatible with the base class.
 
 ---
